@@ -13,7 +13,7 @@
 
 _Develop code using GitHub Codespaces and Visual Studio Code!_
 
-</header>
+</header> git add
 
 <!--
   <<< Author notes: Step 2 >>>
